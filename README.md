@@ -1,4 +1,3 @@
-
 Ce répertoire :
 - [Référence dans un Wiki](https://github.com/etalab/HackFrancophonie/wiki) les jeux de données ouverts et portails pertinents pour les participants à l'open data camp #HackFrancophonie
   * [classés par pays](https://github.com/etalab/HackFrancophonie/wiki/Liste-des-pays)
