@@ -1,6 +1,6 @@
 Ce répertoire :
 - [Référence dans un Wiki](https://github.com/etalab/HackFrancophonie/wiki) les jeux de données ouverts et portails pertinents pour les participants à l'open data camp #HackFrancophonie
-  * [classés par pays](https://github.com/etalab/HackFrancophonie/wiki/Liste-des-pays)
+  * [classés par pays](https://github.com/etalab/HackFrancophonie/wiki/Liste-des-pays) : [Burkina Faso](https://github.com/etalab/HackFrancophonie/wiki/Burkina-Faso), [Côte d'Ivoire](https://github.com/etalab/HackFrancophonie/wiki/Cote-d%27Ivoire), [Haïti](https://github.com/etalab/HackFrancophonie/wiki/Ha%C3%AFti), [Ile Maurice](https://github.com/etalab/HackFrancophonie/wiki/Ile-Maurice), [Mali](https://github.com/etalab/HackFrancophonie/wiki/Mali), [Sénégal](https://github.com/etalab/HackFrancophonie/wiki/S%C3%A9n%C3%A9gal)
   * [classés par thème](https://github.com/etalab/HackFrancophonie/wiki/Acc%C3%A8s-par-th%C3%A8me)
 - Accueille le code et les réutilisations produits lors de l'open data camp #HackFrancophonie. 
 
