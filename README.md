@@ -6,8 +6,7 @@ Ce répertoire :
 [Démocratie](https://github.com/etalab/HackFrancophonie/wiki/D%C3%A9mocratie),
 [Démographie](https://github.com/etalab/HackFrancophonie/wiki/D%C3%A9mographie), 
 [Economie](https://github.com/etalab/HackFrancophonie/wiki/Economie), [Education](https://github.com/etalab/HackFrancophonie/wiki/Education),  [Sécurité](https://github.com/etalab/HackFrancophonie/wiki/S%C3%A9curit%C3%A9),
-[Santé](https://github.com/etalab/HackFrancophonie/wiki/Sant%C3%A9), 
-[Société](https://github.com/etalab/HackFrancophonie/wiki/Soci%C3%A9t%C3%A9), 
+[Santé](https://github.com/etalab/HackFrancophonie/wiki/Sant%C3%A9)
 - Accueille le code et les réutilisations produits lors de l'open data camp #HackFrancophonie. 
   * [Liste des sujets et ateliers](https://github.com/etalab/HackFrancophonie/wiki/Id%C3%A9es-d%27ateliers-potentiels)
 
