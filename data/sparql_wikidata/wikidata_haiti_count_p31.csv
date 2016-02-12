@@ -1,0 +1,1341 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sparql xmlns='http://www.w3.org/2005/sparql-results#'>
+	<head>
+		<variable name='nature_id'/>
+		<variable name='nature_frlabel'/>
+		<variable name='count'/>
+	</head>
+	<results>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q486972</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>zone peuplée</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>284</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q3685462</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>commune haïtienne</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>141</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q1665357</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>Arrondissements d'Haïti</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>43</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q4022</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>rivière</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>30</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q7278</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>parti politique</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>28</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q476028</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>club de football</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>24</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q515</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>ville</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>21</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q1076486</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>installation sportive</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>15</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q1248784</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>aéroport</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>11</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q8502</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>montagne</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>10</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q62127</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>département d'Haïti</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>10</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q39594</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>baie</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>8</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q6979593</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>équipe nationale de football</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>8</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q3957</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>bourg</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>6</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q133346</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>frontière</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>6</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q3089219</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>frontière maritime</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>6</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q3918</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>université</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>5</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q45382</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>coup d'État</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>5</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q1616075</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>station de télévision</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>4</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q13406463</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>liste d'un projet Wikimédia</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>4</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q23442</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>île</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>4</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q16917</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>hôpital</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>4</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q215380</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>groupe de musique</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>4</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q2977</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>cathédrale</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>3</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q532</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>village</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>3</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q8436</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>famille</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>3</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q40231</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>élection</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>3</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q46169</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>parc national</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>3</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q193291</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>esprit</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>3</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q4164871</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>fonction</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>3</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q327333</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>agence publique</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>3</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q198</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>guerre</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>2</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q27686</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>hôtel</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>2</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q15284</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>municipalité</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>2</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q23397</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>lac</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>2</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q33506</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>musée</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>2</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q46831</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>chaîne de montagnes</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>2</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q9259</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>patrimoine mondial</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>2</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q16560</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>palais</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>2</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q2485448</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>fédération sportive</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>2</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q17431399</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>musée national</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>2</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q41176</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>bâtiment</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>2</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q41710</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>ethnie</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>2</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q1190554</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>événement</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>2</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q207694</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>musée d'art</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>2</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q772547</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>forces armées</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>2</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q3333303</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>Méringue</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>2</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q15310171</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>port maritime</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>2</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q17633526</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>article de Wikinews</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>2</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q11032</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>journal</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q16334295</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>groupe d'humains</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q3914</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>école</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q34763</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>péninsule</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q44512</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>épidémie</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q492698</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>villes d'Haïti</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q1021711</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>station balnéaire</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q557206</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>université catholique</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q66344</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>banque centrale</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q188451</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>genre musical</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q190752</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>cour suprême</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q183288</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>comité national olympique</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q8142</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>devise</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q1478437</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>compétition de football</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q1329623</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>centre culturel</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q1968435</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>Cuisine nationale</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q3497167</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>barrage poids</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q8065</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>catastrophe naturelle</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q8068</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>inondation</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q15991303</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>ligue de football</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q6138528</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>coalition politique</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q15104814</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>frontière terrestre</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q35749</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>parlement</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q37901</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>détroit</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q11451</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>agriculture</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q57831</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>forteresse</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q88291</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>citadelle</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q11691</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>bourse des valeurs</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q103817</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>peuple autochtone</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q193622</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>décoration</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q320289</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>chambre des députés</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q153936</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>milice</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q644371</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>aéroport international</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q12284</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>canal</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q160091</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>plaine</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q43109</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>référendum</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q43229</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>organisation</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q467011</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>invasion</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q220505</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>festival de cinéma</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q46970</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>compagnie aérienne</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q166542</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>relations internationales</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q473972</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>aire protégée</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q483110</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>stade</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q732717</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>organisme chargé de l'application de la loi</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q858439</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>élection présidentielle</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q1194951</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>équipe nationale</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q1324633</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>base navale</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q10290214</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>événement</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q2570643</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>sénat</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q2726026</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>Kompa</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q935741</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>commission électorale</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q2334719</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>Procédure</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q4167836</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>page de catégorie d'un projet Wikimedia</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q15221623</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>relation bilatérale</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q5119</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>capitale</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q6256</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>pays</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q33289</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>créole</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q33742</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>langue naturelle</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q34038</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>chute d'eau</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q34770</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>langue</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q42032</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>domaine de premier niveau national</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q160016</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>État membre de l'Organisation des Nations unies</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q44613</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>monastère</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q112099</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>État insulaire</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q164950</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>dynastie</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q383550</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>ministère des Affaires étrangères</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q868557</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>festival de musique</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q3624078</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>État souverain</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q18616576</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>propriété</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q7944</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>séisme</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q207326</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>sommet</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='nature_id'>
+				<uri>http://www.wikidata.org/entity/Q644264</uri>
+			</binding>
+			<binding name='nature_frlabel'>
+				<literal xml:lang='fr'>hôpital pour enfants</literal>
+			</binding>
+			<binding name='count'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>1</literal>
+			</binding>
+		</result>
+	</results>
+</sparql>
