@@ -1,4 +1,4 @@
-# R script which reads all local ccib csv files and export a single csv
+# R script which reads all local ccib csv files and exports a single csv
 library(magrittr)
 library(readr)
 library(plyr)
