@@ -1,12 +1,12 @@
 # Extraction de données de Wikidata
 
 * Wikidata est une base de données sémantique et collaborative. Elle contient des informations
-* SPARQL permet d'extraire des données de Wikidata et de constituer à la volée des jeux de données
+* SPARQL est un langage de requête qui permet d'extraire des données de Wikidata et de constituer à la volée des jeux de données
 * Comme sur Wikipédia, les données peuvent être incomplètes ou erronées et peuvent être corrigées directement sur [Wikidata.org](https://www.wikidata.org/wiki/Wikidata:Main_Page)
 
 ## Jeu de données sur les communes béninoises
 
-* On repère les communes béninoises grâce à la propriété p31 (nature de l'élément) qui est égal à la valeur [Q1780506](https://www.wikidata.org/wiki/Q1780506) (commune béninoise)
+* On repère les communes béninoises grâce à la propriété [p31](https://www.wikidata.org/wiki/Property:P31) (nature de l'élément) qui est égal à la valeur [Q1780506](https://www.wikidata.org/wiki/Q1780506) (commune béninoise)
 * On récupère ensuite :
   * l'entité administrative dans laquelle se situe l'élément : [P131](https://www.wikidata.org/wiki/Property:P131) ;  
   * le pays : [P17](https://www.wikidata.org/wiki/Property:P17) ;
