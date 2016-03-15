@@ -16,3 +16,4 @@ HackFrancophonie est organisé le 19 février 2016 au [NUMA](https://paris.numa.
 
 [Informations pratiques](https://www.etalab.gouv.fr/hackfrancophonie-un-open-data-camp-autour-des-donnees-ouvertes-par-les-pays-francophones) & [Inscription](https://www.eventbrite.fr/e/billets-hackfrancophonie-20421875379)
 
+Le compte rendu des projets développés lors du hackathon est disponible [ici](https://www.etalab.gouv.fr/hackfrancophonie-jour-2-open-data-camp-autour-des-donnees-ouvertes-dans-la-francophonie). 
